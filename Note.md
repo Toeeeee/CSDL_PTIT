@@ -20,13 +20,13 @@
 
 - Đặc điểm: 
 
-    1. Cho phép người dùng tạo CSDL - ngôn ngữ định nghĩa dữ liệu 
+    1, Cho phép người dùng tạo CSDL - ngôn ngữ định nghĩa dữ liệu 
 
-    2. Cho phép người dùng truy vấn CSDL - ngôn ngữ thao tác dữ liệ 
+    2, Cho phép người dùng truy vấn CSDL - ngôn ngữ thao tác dữ liệ 
 
-    3. Hỗ trợ lưu trữ số lượng lớn dữ liệu 
+    3, Hỗ trợ lưu trữ số lượng lớn dữ liệu 
 
-    4. Kiểm soát truy cập dữ liệu từ nhiều người dùng cùng lúc
+    4, Kiểm soát truy cập dữ liệu từ nhiều người dùng cùng lúc
 
 **Hệ CSDL** 
 
