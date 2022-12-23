@@ -44,3 +44,77 @@ Một CSDL được quản lý bởi một hệ quản trị CSDL thường đư
 
 **Mô hình trừu tượng 3 lớp** 
 
+![m](https://github.com/Toeeeee/CSDL_PTIT/blob/main/Images/Screenshot%20from%202022-12-23%2017-56-54.png?raw=true)
+
+**Mức ngoài**
+
+- Là khung nhìn của người sử dụng CSDL, mô tả phần CSDL tương ứng với người dùng đó.
+
+- Mỗi người dùng có một khung nhìn khác nhau về thế giới thực
+
+- Mức ngoài chỉ bao gồm các thực thể, thuộc tính, quan hệ trong thế giới thực mà người dùng quan tâm
+
+**Mức khái niệm** 
+
+
+- Mức khái niệm là khung nhìn của người thiết kế CSDL, mô tả dữ liệu nào được lưu trong CSDL và mối quan hệ giữa chúng 
+
+- Người quản trị CSDL nhìn thấy toàn bộ cấu trúc logic của CSDL. 
+
+**Mức trong** 
+
+- Mức trong biểu diễn về mặt vật lý của CSDL trong máy tính, mô tả các thức lưu trữ dữ liệu trong CSDL
+
+
+![m](https://github.com/Toeeeee/CSDL_PTIT/blob/main/Images/Screenshot%20from%202022-12-23%2018-05-54.png?raw=true)
+
+**Các ngôn ngữ CSDL** 
+
+- Ngôn ngữ định nghĩa dữ liệu 
+- Ngôn ngữ thao tác dữ liệu 
+
+**Ngôn ngữ định nghĩa dữ liệu** 
+- Là ngôn ngữ cho phép người quản lý CSDL hoặc người dùng mô tả và đặt tên các thực thể, thuộc tính và các quan hệ cần thiết cho ứng dụng, cùng với những ràng buộc về bảo mật và toàn vẹn liên quan.
+
+**Ngôn ngữ thao tác dữ liệu** 
+
+- Là ngôn ngữ cung cấp một tập các thao tác hỗ trợ cho các phép toán thao tác dữ liệu cơ bản trên dữ liệu được lưu trong CSDL
+
+- Bao gồm: 
+
+    1, Chèn dữ liệu vào CSDL mới 
+
+    2, Sử dổi dữ liệu đã được lưu trữ trong CSDL
+
+    3, Lấy dữ liệu từ CSDL 
+
+    4, Xóa dữ liệu trong CSDL
+
+- Phần thao tác lấy dữ liệu gọi là ngôn ngữ truy vấn 
+
+**Phân loại các hệ CSDL** 
+
+Có 2 loại kiến trúc 
+
+- Hệ CSDL tập trung 
+    - Hệ CSDL cá nhân 
+    - Hệ CSDL trung tâm
+    - Hệ CSDL client/ server
+
+- Hệ CSDL phân tán 
+    - Hệ CSDl phân tán thuần nhất 
+    - Hệ CSDL phân tán không thuần nhất 
+
+
+
+**Hệ CSDL tập trung** 
+
+- Là các hệ CSDL mà trong đó phần CSDL được lưu trữ tại một ví trí nhất định 
+
+**Hệ CSDL phân tán** 
+
+
+- CSDL phân tán là một CSDl logic đơn lẻ được trải ra về amwjt vật lý trên nhiều máy tính ở nhiều vị trí địa lý khác nhau
+
+VD: CSDL của một ngân hàng sẽ được phân bổ theo các chi nhánh tại từng địa phương
+
