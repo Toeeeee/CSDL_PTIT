@@ -143,3 +143,11 @@ VD: CSDL của một ngân hàng sẽ được phân bổ theo các chi nhánh t
     - Thiết kế an toàn bảo mật 
     
  
+### Chương 3: Ngôn ngữ truy vấn đại số quan hệ 
+
+- Năm phép toán cơ bản trong đại số quan hệ: phép chọn, phép chiếu, phép hợp, phép trừ, phép tích Đề-các
+
+**Phép chọn** 
+
+
+
