@@ -118,3 +118,28 @@ Có 2 loại kiến trúc
 
 VD: CSDL của một ngân hàng sẽ được phân bổ theo các chi nhánh tại từng địa phương
 
+### Chương 2: Các mô hình dữ liệu 
+
+**Mô hình dữ liệu** 
+
+- Là một tập hợp các khái niệm dùng cho việc mô tả và thao tác dữ liệu, các mối quan hệ và các ràng buộc trên dữ liệu tổ chức 
+
+- 3 loại chính: 
+    - Hướng đối tượng 
+    - Hướng bản ghi 
+    - Vật lý 
+
+- Có 3 mô hình hướng bản ghi cơ bản:
+    - Mô hình dữ liệu quan hệ 
+    - Mô hình dữ liệu mạng 
+    - Mô hình dữ liệu phân cấp 
+    
+- 6 bước thiết kế cơ sở dữ liệu: 
+    - Phân tích yêu cầu 
+    - Thiết kế CSDL mức khái niệm
+    - Thiết kế CSDL mứn logic 
+    - Cái tiến lược đồ 
+    - Thiết kế CSDL mức vật lý 
+    - Thiết kế an toàn bảo mật 
+    
+ 
