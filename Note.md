@@ -147,7 +147,5 @@ VD: CSDL của một ngân hàng sẽ được phân bổ theo các chi nhánh t
 
 - Năm phép toán cơ bản trong đại số quan hệ: phép chọn, phép chiếu, phép hợp, phép trừ, phép tích Đề-các
 
-**Phép chọn** 
-
-
+- Một số phép toán mở rộng: phép giao, phép kết nối tự nhiên, phép chia, phép bán kết nối, phép kết nối ngoài.
 
