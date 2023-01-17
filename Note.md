@@ -149,3 +149,4 @@ VD: CSDL của một ngân hàng sẽ được phân bổ theo các chi nhánh t
 
 - Một số phép toán mở rộng: phép giao, phép kết nối tự nhiên, phép chia, phép bán kết nối, phép kết nối ngoài.
 
+
